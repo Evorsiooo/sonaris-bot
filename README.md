@@ -1,5 +1,3 @@
-**NOTE:** This project is no longer officially maintained. For a community-maintained fork, see: https://github.com/TwixGamer00/azuri
-
 [AzuraCast]: (https://www.azuracast.com/)
 [Discord]: (https://discord.com)
 
