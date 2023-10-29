@@ -1,3 +1,6 @@
+
+**This fork is made for Sonaris Media, [this](https://github.com/Sigma-Production/Azuri-Bot) version might be better for you.**
+
 [AzuraCast]: (https://www.azuracast.com/)
 [Discord]: (https://discord.com)
 
@@ -70,10 +73,6 @@ Thought of a great idea? [Request it](https://github.com/AzuraCast/Azuri/issues/
 
 ## Support
 Azuri is provided free of charge — but if you find it useful, support us and AzuraCast!
-
-### Azuri 
-<a href="https://ko-fi.com/ninjalabs" target="_blank" title="Buy me a coffee!"><img height='32' style='border:0px;height:32px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=b' border='0' alt='Buy me a coffee at ko-fi.com' /></a>
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R22KA59DG36GE"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
 
 ### AzuraCast
 [Support AzuraCast here!](https://github.com/AzuraCast/AzuraCast/blob/master/README.md#support-azuracast-development)
